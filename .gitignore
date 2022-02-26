@@ -1,0 +1,6 @@
+*.pyc
+
+constants/config_active.ini
+
+credentials/*
+.vscode/*
